@@ -8,7 +8,7 @@ khushiisaxena/KhushiSaxena is a ✨ special ✨ repository because its `README.m
 You can click the Preview link to take a look at your changes.
 ---> 
 
-<h1 align="center" color="white">👋 Hi! I'm Khushi Saxena <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
+<h1 align="center" color="white">Hi! I'm Khushi Saxena <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
 <h3 align="center" color="white">Pre-final year CSE student at IIIT Vadodara</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushiisaxena&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-saxena" /> </p>
